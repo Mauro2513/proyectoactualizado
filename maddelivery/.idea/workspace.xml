@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5e9ea94-20db-4ae3-9861-59716a284d41" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/maddelivery/maddelivery/controlador/CalificacionControlador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/maddelivery/maddelivery/entidad/Calificacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/maddelivery/maddelivery/repositorio/CalificacionRepositorio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adminpanel/borrar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adminpanel/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../adminpanel/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adminpanel/src/componentes/Menubar/Menubar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../adminpanel/src/componentes/Menubar/Menubar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adminpanel/src/componentes/Sidebar/Sidebar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../adminpanel/src/componentes/Sidebar/Sidebar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adminpanel/src/paginas/AddComida/AddComida.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../adminpanel/src/paginas/AddComida/AddComida.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adminpanel/src/paginas/ListaComida/ListaComida.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../adminpanel/src/paginas/ListaComida/ListaComida.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adminpanel/src/paginas/Ordenes/Ordenes.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../adminpanel/src/paginas/Ordenes/Ordenes.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adminpanel/src/servicios/orderService.js" beforeDir="false" afterPath="$PROJECT_DIR$/../adminpanel/src/servicios/orderService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../appcliente/borrar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../appcliente/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../appcliente/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../appcliente/src/paginas/PlaceOrder/PlaceOrder.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../appcliente/src/paginas/PlaceOrder/PlaceOrder.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/maddelivery/maddelivery/configuracion/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/maddelivery/maddelivery/configuracion/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/maddelivery/maddelivery/controlador/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/maddelivery/maddelivery/controlador/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/maddelivery/maddelivery/servicio/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/maddelivery/maddelivery/servicio/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/maddelivery/maddelivery/servicio/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/maddelivery/maddelivery/servicio/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/maddelivery/maddelivery/configuracion/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/maddelivery/maddelivery/configuracion/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/maddelivery/maddelivery/controlador/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/maddelivery/maddelivery/controlador/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/maddelivery/maddelivery/servicio/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/maddelivery/maddelivery/servicio/OrderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/maddelivery/maddelivery/servicio/OrderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/maddelivery/maddelivery/servicio/OrderServiceImpl.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="34vt1MOEixm1MCuskZ8kabin5tL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/usuario/OneDrive/Pictures/proyecto2 - copiaprueba/maddelivery&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="MaddeliveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <envs>
+        <env name="AWS_ACCESS_KEY" value="AKIASG5ZC3Y6GLTZ5VOO" />
+        <env name="AWS_SECRET_KEY" value="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" />
+      </envs>
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="maddelivery" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.maddelivery.maddelivery.MaddeliveryApplication" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5e9ea94-20db-4ae3-9861-59716a284d41" name="Changes" comment="" />
+      <created>1762105656786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762105656786</updated>
+      <workItem from="1762105658543" duration="4523000" />
+      <workItem from="1762518065369" duration="100000" />
+      <workItem from="1762556738961" duration="69000" />
+      <workItem from="1762873086158" duration="10709000" />
+      <workItem from="1762959374139" duration="4564000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
